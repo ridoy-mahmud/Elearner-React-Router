@@ -1,0 +1,15 @@
+.pricing-part{
+    background-color: #efefef;
+}
+
+.card-style{
+    border: 0px solid black;
+    width: 100px;
+    height: 330px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+}
